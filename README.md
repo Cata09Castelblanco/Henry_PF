@@ -97,7 +97,7 @@ En el tercer sprint se busca tener los modelos de machine learning y el dashboar
 - [`EDA_`](https://github.com/litcoininvestorbros/Henry_PF/tree/main/notebooks/EDA)
 : Carpeta con los Jupyter Notebooks que contienen el código y la narrativa del análisis exploratorio de datos en los archivos de reviews suministrado por Google y Yelp.
 
-## Dash board Intercativo  
+## Dashboard Intercativo  
 
 <div align="center">
   <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/Dashboard%20Final.jpeg" alt="Logo" width="700">
